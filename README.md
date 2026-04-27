@@ -4,7 +4,7 @@
 
 An open-source database exploring how music represents disease, disability, suffering, and death across cultures and genres.
 
-**Created by 100 students** of the course *"Musicology of Disease, Disability, and Suffering"* (질병과 장애, 고통의 음악학) at Hanyang University, Seoul, Korea — Spring 2026.
+**Created by 98 students** of the course *"Musicology of Disease, Disability, and Suffering"* (질병과 장애, 고통의 음악학) at Hanyang University, Seoul, Korea — Spring 2026.
 
 ---
 
@@ -51,7 +51,7 @@ Seoul, Korea
 
 ## 🙏 Acknowledgments
 
-- **100 students** of Spring 2026 who collaboratively built this database
+- **98 students** of Spring 2026 who collaboratively built this database
 - **Hanyang University** for pedagogical support
 - The legacy of **NYU LitMed** (2000–2024), whose discontinuation inspired this open-source approach
 
