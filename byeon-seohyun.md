@@ -16,6 +16,8 @@ The movie also portrays how unstable Jackson is through the distortion of music 
 
 [*Inside Llewyn Davis*](choi-dahyeon.md) can be referred to as another movie portraying the depression of a singer-songwriter through music.
 
+<img src="./byeon-seohyun.png" alt="Image of a singer looking sad, holding a guitar with bottles of alcohol and pills around" style="width: 45%;" />
+
 
 # 스타 이즈 본
 
