@@ -20,7 +20,7 @@ The central musical piece in *Mogul Mowgli* (2020) is “Mogambo,” written by 
 
 ## AI 생성 이미지
 
-<img src="./ChatGPT Image 2026년 5월 21일 오후 08_32_48" alt="AI-generated image representing Mogul Mowgli, musical identity, and bodily vulnerability" style="width:25%;" />
+<img src="./mogul-mowgli-ai-image.png" alt="AI-generated image representing Mogul Mowgli, musical identity, and bodily vulnerability" style="width:35%;" />
 
 
 ## 관련 항목
