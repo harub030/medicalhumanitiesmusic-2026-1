@@ -15,8 +15,7 @@ The *Lighthouse* is a chamber opera composed in 1980 by the British composer Pet
 
 ## Image
 
-![The Lighthouse](.//park-yeonwoo.png)
-<img src="./park-yeonwoo.png" alt="description" style="width:25%;" />
+![The Lighthouse](park-yeonwoo.PNG)
 
 # 더 라이트하우스
 
