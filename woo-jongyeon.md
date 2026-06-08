@@ -24,7 +24,7 @@ ICD: M45, F33
 
 *In particular, the song begins with relatively restrained vocals and instrumentation, but the intensity gradually increases as it approaches the chorus, where the drums and vocals become significantly more powerful. This structural progression mirrors the accumulation of chronic pain and the determination to overcome it. Furthermore, considering Dan Reynolds' real experiences with Ankylosing Spondylitis and depression, the explosive energy and rough vocal delivery throughout the song can be interpreted not merely as musical devices but as artistic expressions of his personal struggles. This connection between lived experience and musical expression reinforces the song's message that pain can become a source of growth, resilience, and belief.*
 
-<img width="1536" height="1024" alt="believer" src="https://github.com/user-attachments/assets/b4826b30-491f-4cb0-9fee-b3bf0a0acdc9" />
+<img src="./woo-jongyeon.png" alt="description" style="width:100%;" />
 
 # 믿는 자
 
@@ -44,5 +44,5 @@ ICD: M45, F33
 
 *특히 곡의 도입부는 비교적 절제된 보컬과 리듬으로 시작하지만 후렴구에 가까워질수록 드럼과 보컬의 강도가 점차 높아지며 긴장감이 극대화된다. 이러한 구성은 만성 질환으로 인한 통증이 반복적으로 누적되는 과정과 그에 맞서려는 화자의 강한 의지를 효과적으로 드러낸다. 또한 댄 레이놀즈가 실제로 강직성 척추염과 우울증으로 인해 신체적·정신적 고통을 겪었다는 점을 고려하면, 곡 전반의 폭발적인 에너지와 거친 보컬은 단순한 음악적 연출이 아니라 자신의 경험을 음악으로 표현한 결과라고 볼 수 있다. 이는 고통을 극복의 대상이 아닌 성장의 원동력으로 해석하는 곡의 핵심 메시지를 더욱 설득력 있게 전달한다.*
 
-<img width="1536" height="1024" alt="believer" src="https://github.com/user-attachments/assets/b4826b30-491f-4cb0-9fee-b3bf0a0acdc9" />
+<img src="./woo-jongyeon.png" alt="description" style="width:100%;" />
 
