@@ -16,9 +16,16 @@ In *And Then* (1909), Natsume Soseki projects the fear of the protagonist Daisuk
 
 <img src="./kim-uijin.png" alt="The debilitated Daisuke" style="width:50%;" />
 
+# The Music I Hope to Have Played at My Funeral
+
+[NO (SLOWED) BATIDÃO](https://www.youtube.com/watch?v=Bf2ml3oE2JA&list=RDBf2ml3oE2JA&start_radio=1)
+
+Reason for Selection & Song Features:
+At my final moment, I don’t want my family or friends to bow their heads with gloomy faces. Whether it's a memory of laughing together or a slight disagreement, I want them to shake it off as a pleasant memory and move forward with their own vibrant lives. Therefore, I chose a song with a powerful and addictive Brazilian Funk beat that can instantly shatter the heavy atmosphere of a funeral. Rather than suppressing sadness, this track has the charm of energetically shifting the mood. In this intense sound, I hope people will send me off with smiles instead of tears.
+
 # 내 장례식에서 연주되길 희망하는 음악:
 
 [NO (SLOWED) BATIDÃO](https://www.youtube.com/watch?v=Bf2ml3oE2JA&list=RDBf2ml3oE2JA&start_radio=1)
 
 선정 이유 및 곡의 특징:
-나의 마지막 순간에 가족이나 친구들이 침울한 표정으로 고개를 숙이고 있기를 바라지 않는다. 나와 함께 웃었던 기억이든, 혹시나 투닥거렸던 기억이든 모두 유쾌한 추억으로 털어내고, 다시 각자의 활기찬 삶으로 나아가길 원한다.
+나의 마지막 순간에 가족이나 친구들이 침울한 표정으로 고개를 숙이고 있기를 바라지 않는다. 나와 함께 웃었던 기억이든, 혹시나 투닥거렸던 기억이든 모두 유쾌한 추억으로 털어내고, 다시 각자의 활기찬 삶으로 나아가길 원한다. 그래서 장례식의 무거운 공기를 단번에 깨뜨릴 수 있는 강력하고 중독성 있는 브라질리언 펑크 비트의 곡을 선정했다. 슬픔을 억누르기보다, 오히려 분위기를 에너제틱하게 환기해 주는 매력이 있다. 이 강렬한 사운드 속에서 사람들이 눈물 대신 웃음으로 나를 보내주었으면 한다.
