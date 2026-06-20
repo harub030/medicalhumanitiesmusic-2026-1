@@ -8,29 +8,37 @@ ICD: C92.5
 
 # Your Lie in April
 
-*Orange* (2015)/ Lyrics&Composition: MICHIRU/ Lyrics: “Surely, the two of us remained just as we were that day, like innocent children, running with all our might through the turning seasons,,,,” “through streets dyed in the orange of the setting sun.”/ Your Lie in April is a story that portrays wounds and healing through music. Kousei, who suffers from trauma related to the piano, meets Kaori, a free-spirited violinist, and gradually regains both his music and emotions. Kaori's disease is portrayed throughout the animation through repeated hospital visits, sudden collapses, pale expressions, and scenes where she struggles physically even while trying to smile brightly in front of others. 
+*Orange* (2015)/ Lyrics&Composition: MICHIRU/ Lyrics: “Surely, the two of us remained just as we were that day, like innocent children, running with all our might through the turning seasons,,,,” “through streets dyed in the orange of the setting sun.”/ 
+
+Your Lie in April is a story that portrays wounds and healing through music. Kousei, who suffers from trauma related to the piano, meets Kaori, a free-spirited violinist, and gradually regains both his music and emotions. Kaori's disease is portrayed throughout the animation through repeated hospital visits, sudden collapses, pale expressions, and scenes where she struggles physically even while trying to smile brightly in front of others. In Kaori's solo performances, her free and unhurried tempo and the warm, expressive timbre of her violin convey the emotions that remain alive even within pain. In her duets with Kousei, the contrast between his restrained piano and her fluid violin simultaneously reveals both the nature of their relationship and Kaori's inner world.
 
 However, Kaori never puts into words her diagnosis, nor the feelings for Kousei that had begun long before. As discussed in Week 5, music becomes a translation that operates where language fails. Kaori's performance was the only language capable of conveying the pain and emotions that words could not reach, and in that sense, the stage she shared with Kousei may have said more than the letter she left behind. 
 
-Music symbolizes Kaori's fleeting life and her will to shine until the very end, yet it also calls to mind the double standard of romanticization and stigmatization discussed in Week 2. While the scenes of Kaori taking the stage despite her weakening body are portrayed as deeply moving, they simultaneously risk reinforcing the expectation that those living with illness must keep shining until the very end. 
+Music symbolizes Kaori's fleeting life and her will to shine until the very end, yet it also calls to mind the double standard of romanticization and stigmatization discussed in Week 2. While the scenes of Kaori taking the stage despite her weakening body are portrayed as deeply moving, they simultaneously risk reinforcing the expectation that those living with illness must keep shining until the very end. The animation chooses to wrap Kaori's pain in beautiful music and visuals rather than portraying it directly, a structure that invites the audience to consume her suffering as something moving. In this sense, the work is double-edged — it gestures toward a critique of romanticization while simultaneously following its very grammar.
 
-The orange sunset is most brilliant just before it disappears into darkness. This symbolizes Kaori's fading life while also reflecting her will to burn beautifully until her final moment. 
+The orange sunset is most brilliant just before it disappears into darkness. This symbolizes Kaori's fading life while also reflecting her will to burn beautifully until her final moment. Recommend to [Enjoy the animation plot with the OST](https://youtu.be/RPQGWnfG_bs?si=ep80eWx13nfQgeZ-)
 
-In Week 14, through Mozart's Requiem, we explored the difference between music made for oneself and music made for another. This leads one to wonder whether Kaori's performances were meant to set her own life ablaze, or whether they were always intended for Kousei. Just as funeral music may ultimately be for those who remain, Kaori's music may have been left behind so that Kousei could go on living after she was gone. For an additional example of how music is utilized not merely to define physical disability as a source of sorrow, but as a device that brilliantly illuminates the human will, it would be highly recommended to refer [The Theory of Everything](choi-mihyeon.md). Recommend to [Enjoy the animation plot with the OST](https://youtu.be/RPQGWnfG_bs?si=ep80eWx13nfQgeZ-)
+In Week 14, through Mozart's Requiem, we explored the difference between music made for oneself and music made for another. This leads one to wonder whether Kaori's performances were meant to set her own life ablaze, or whether they were always intended for Kousei. Just as funeral music may ultimately be for those who remain, Kaori's music may have been left behind so that Kousei could go on living after she was gone. For an additional example of how music is utilized not merely to define physical disability as a source of sorrow, but as a device that brilliantly illuminates the human will, it would be highly recommended to refer to [The Theory of Everything](choi-mihyeon.md).This film, resonates with Kaori's narrative in showing that love endures even as the body declines. What the two works share is the conviction that love does not stop when the body does — and that music becomes the language through which that love is expressed and carried forward. 
 
 <img src="kim-soobin.png" alt="description" style="width:85%;" />
 
 # 4월은 너의 거짓말
 
-*Orange* (2015) / 작사&작곡: MICHIRU/ 가사: "분명 두 사람은 그날 그대로 순진한 어린아이 그대로 돌고 도는 계절 속에서 힘껏 달려가,,," "가라앉는 노을 오렌지로 물드는 거리,,,"/ 4월은 너의 거짓말은 음악을 통해 상처와 치유를 그리는 이야기다. 피아노에 트라우마가 있는 코세이는 자유로운 연주를 하는 바이올리니스트 카오리를 만나며 다시 음악과 감정을 되찾는다. 애니메이션 속에서 카오리의 질병은 잦은 병원 방문, 갑작스러운 쓰러짐, 창백한 표정, 그리고 아픈 몸으로도 밝게 웃으려 하는 모습 등을 통해 표현된다. 
+*Orange* (2015) / 작사&작곡: MICHIRU/ 가사: "분명 두 사람은 그날 그대로 순진한 어린아이 그대로 돌고 도는 계절 속에서 힘껏 달려가,,," "가라앉는 노을 오렌지로 물드는 거리,,,"
 
-그러나 카오리는 자신의 병명도, 오래전부터 시작된 코세이를 향한 감정도 끝내 말로 전하지 않는다. 5주차에서 다룬 것처럼 음악은 언어가 실패한 자리에서 작동하는 번역이 된다. 카오리의 연주는 말로 닿을 수 없는 고통과 감정을 전달하는 유일한 언어였으며, 그런 의미에서 카오리가 남긴 편지보다 코세이와 함께한 무대가 더 많은 것을 말하고 있었을지도 모른다. 
+4월은 너의 거짓말은 음악을 통해 상처와 치유를 그리는 이야기다. 피아노에 트라우마가 있는 코세이는 자유로운 연주를 하는 바이올리니스트 카오리를 만나며 다시 음악과 감정을 되찾는다. 애니메이션 속에서 카오리의 질병은 잦은 병원 방문, 갑작스러운 쓰러짐, 창백한 표정, 그리고 아픈 몸으로도 밝게 웃으려 하는 모습 등을 통해 표현된다. 카오리의 독주 장면에서는 규칙에 얽매이지 않는 자유로운 템포와 바이올린의 따뜻하고 감성적인 음색이 고통 속에서도 살아있는 감정을 전달하며, 코세이와의 이중주에서는 그의 절제된 피아노와 카오리의 유연한 바이올린이 대비를 이루며 두 사람의 관계와 카오리의 내면을 동시에 드러낸다.
 
-음악은 카오리의 유한한 삶과 마지막까지 빛나려는 의지를 상징하지만, 2주차에서 다룬 낭만화와 낙인화의 이중 잣대를 떠올리게 한다. 시간이 지날수록 몸은 약해지지만 끝까지 무대에 서는 카오리의 모습은 감동적으로 그려지지만, 이는 동시에 질병을 가진 사람이 끝까지 '빛나야 한다'는 기대를 강화할 위험이 있다. 
+그러나 카오리는 자신의 병명도, 오래전부터 시작된 코세이를 향한 감정도 끝내 말로 전하지 않는다. 5주차에서 다룬 것처럼 음악은 언어가 실패한 자리에서 작동하는 번역이 된다. 카오리의 연주는 말로 닿을 수 없는 고통과 감정을 전달하는 유일한 언어였으며, 그런 의미에서 카오리가 남긴 편지보다 코세이와 함께한 무대가 더 많은 것을 말하고 있었을지도 모른다.
+
+음악은 카오리의 유한한 삶과 마지막까지 빛나려는 의지를 상징하지만, 2주차에서 다룬 낭만화와 낙인화의 이중 잣대를 떠올리게 한다. 시간이 지날수록 몸은 약해지지만 끝까지 무대에 서는 카오리의 모습은 감동적으로 그려지지만, 이는 동시에 질병을 가진 사람이 끝까지 '빛나야 한다'는 기대를 강화할 위험이 있다. 애니메이션은 카오리의 고통을 직접적으로 드러내기보다 아름다운 음악과 영상으로 감싸는 방식을 택하는데, 이는 관객이 고통을 감동으로 소비하도록 유도하는 구조이기도 하다. 즉 이 작품은 낭만화를 비판하는 동시에 스스로도 낭만화의 문법을 따르고 있다는 점에서 이중적이다.
 
 오렌지색 노을은 해가 지기 직전 가장 찬란하게 빛나지만 곧 어둠에 묻히고 만다. 이는 카오리의 생명이 서서히 꺼져가고 있음을 암시하는 동시에, 마지막 순간까지 아름답게 빛나고자 하는 그녀의 의지를 상징한다. 
 
-14주차에서 모차르트의 레퀴엠을 다루며 자신을 위한 음악과 타인을 위한 음악의 차이를 배웠는데, 카오리의 연주가 자신의 삶을 불태우기 위한 것이었는지 아니면 처음부터 코세이를 위한 것이었는지 깊게 생각해보게 된다. 장례식 음악이 남는 자를 위한 것일 수 있듯, 카오리의 음악도 자신이 떠난 뒤 코세이가 살아갈 수 있도록 남겨진 것일지 모른다. 음악이 신체적 장애를 슬픔으로만 규정하지 않고 인간의 의지를 찬란하게 비추는 장치로 활용된 추가적인 사례는 [사랑에 대한 모든 것](choi-mihyeon.md)를 참고하면 좋을 것이다. [애니메이션 줄거리를 OST와 함께 즐기기](https://youtu.be/RPQGWnfG_bs?si=ep80eWx13nfQgeZ-)
+오렌지색 노을은 해가 지기 직전 가장 찬란하게 빛나지만 곧 어둠에 묻히고 만다. 이는 카오리의 생명이 서서히 꺼져가고 있음을 암시하는 동시에, 마지막 순간까지 아름답게 빛나고자 하는 그녀의 의지를 상징한다.
+
+14주차에서 모차르트의 레퀴엠을 다루며 자신을 위한 음악과 타인을 위한 음악의 차이를 배웠는데, 카오리의 연주가 자신의 삶을 불태우기 위한 것이었는지 아니면 처음부터 코세이를 위한 것이었는지 깊게 생각해보게 된다. 장례식 음악이 남는 자를 위한 것일 수 있듯, 카오리의 음악도 자신이 떠난 뒤 코세이가 살아갈 수 있도록 남겨진 것일지 모른다. [애니메이션 줄거리를 OST와 함께 즐기기](https://youtu.be/RPQGWnfG_bs?si=ep80eWx13nfQgeZ-)
+
+음악이 신체적 장애를 슬픔으로만 규정하지 않고 인간의 의지를 찬란하게 비추는 장치로 활용된 추가적인 사례는 [사랑에 대한 모든 것](choi-mihyeon.md)를 참고하면 좋을 것이다. 이 작품 역시, 신체적 쇠퇴 속에서도 사랑과 감정이 음악과 함께 살아있음을 보여준다는 점에서 카오리의 서사와 공명한다. 몸이 멈춰가는 순간에도 사랑은 멈추지 않는다는 것, 그리고 그 사랑이 음악을 통해 전달된다는 점이 두 작품의 공통된 언어다. 
 
 # Into your heart, at this moment
 The song I wish to be played at my funeral is <Into your heart, at this moment> by Kim Suji.
