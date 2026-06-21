@@ -23,6 +23,14 @@ In the film's climax, the camera cross-cuts between Beethoven completely deaf, f
 
 In this sense, *Immortal Beloved* is meaningful for a music-centered medical humanities database. The film makes us think simultaneously about normality, illness experience, and the musical expression of suffering. It also shows that music can carry the weight of a disabled body without reducing that body to either tragedy or triumph — and that disability does not diminish artistic creativity but can instead deepen and intensify it, proving music to be a medium for inhabiting, rather than merely overcoming, human suffering.
 
+## Turning the Critique on My Own Description (Link to HYQ Portfolio)
+
+Re-reading the entry above, I have to confront something uncomfortable: much of my own writing reproduces the very "overcoming narrative" that my [HYQ Portfolio Future Question](README.md) sets out to question. Phrases like "continued to create music even as he lost his ability to hear" and the heavy reliance on Dorschel's logic of *sublimation* — pain "conquered," torment "transmuted into its very opposite" — silently install the hearing body as the keynote against which Beethoven's deafness is heard as a deficit to be transcended. I did not intend condescension; I intended homage. That is precisely the point my portfolio arrives at: stigma is reproduced not through malice but through the position one unknowingly writes from.
+
+Applying the two criteria I develop in the portfolio makes the problem concrete. By **Schafer's soundscape** distinction (keynote vs. noise), my phrase "created in total silence" treats hearing as the natural background and deafness as the absence to be redeemed — a *reinforcing* description. A *dismantling* alternative would not frame his deafness as silence at all, but as a different sensory channel: Beethoven composed through bone conduction and vibration, sawing the legs off his piano to feel it through the floor, reading music as structure rather than sound. By **Oliveros's Deep Listening** distinction (hearing vs. listening), the film — and my account of it — largely positions the deaf body as an object to be observed and pitied ("the humiliation," "the isolation"), which keeps the old hierarchy intact; a dismantling account would instead treat that body as a *listening subject* with its own valid mode of musical perception. Read this way, even Cramer's "incarnated pain" thesis can be repurposed: the harmonic ruptures of the late style need not be "the formal signatures of a body that no longer hears," but the signatures of a body that hears *otherwise*.
+
+I am deliberately leaving the original description intact above rather than quietly polishing it away, because the gap between how I first wrote this entry and how I read it now is itself the evidence my portfolio is built on. This entry is the document where my Future Question was born; the portfolio is where I learned to read it critically. — see **[HYQ Portfolio: "음악 속 질병·장애의 표현 방식이 '정상성'의 권력 구조를 강화하는가, 해체하는가?"](README.md)**
+
 # 불멸의 연인
 
 *불멸의 연인*은 루트비히 판 베토벤의 생애와 '불멸의 연인'이라는 미스터리를 중심으로 전개되는 전기 영화이다. 진행성 청각 장애는 청각 기능이 시간이 지남에 따라 점진적으로 저하되어 결국 완전한 난청에 이르는 감각신경성 질환이다. 이 작품은 특히 베토벤이 겪었던 진행성 청각 장애를 핵심 서사로 삼아, 소리를 잃어가는 과정 속에서도 음악을 창조해낸 내면의 고통과 집념을 그린다. 줄거리는 베토벤 사후 그의 비서가 '불멸의 연인'의 정체를 추적하는 과정에서 여러 여성들과의 관계를 회상하는 구조로 진행된다. 영화에는 교향곡 제9번 「합창」 4악장 ['환희의 송가'](https://www.youtube.com/watch?v=7qWbcosJdtU)를 비롯해 「월광」, 「열정」 소나타 등 주요 작품이 사용된다.
@@ -40,6 +48,14 @@ In this sense, *Immortal Beloved* is meaningful for a music-centered medical hum
 영화의 클라이맥스에서 베토벤이 청각을 완전히 상실한 상태에서 교향곡 9번을 지휘하고도 관객의 환호를 듣지 못하는 장면은, 음악이 어떻게 침묵과 고립을 극적으로 드러내는지를 보여준다. 음악의 승리와 그것을 만든 자의 침묵이 같은 순간에 공존한다 — 이 순간에 도르셸의 '승화'와 크라머의 '체화된 고통'은 더 이상 대립하는 이론이 아니라, 한 신체의 두 가지 진실로 함께 들린다. 실제 진행성 청각 장애는 작품에서의 베토벤처럼 극적으로 고난도의 음악적 창작을 지속하는 경우는 드물며, 대개 음정 구별의 어려움, 말소리 인지 저하, 청각 피드백 상실의 형태로 점진적으로 나타나 음악가가 연주 활동을 중단하게 되는 경우가 많다. 한 인물 내부에 공존하는 대립적 요소를 상반된 음악적 요소를 통해 표현한 [《지킬 앤 하이드》에 대한 분석](ham-yeji.md)을 참조하면 도움이 될 것이다. 두 작품 모두 내적 분열을 — 쇠퇴하는 감각과 창조 의지 사이의 갈등이든, 상충하는 자아 간의 충돌이든 — 극적·음악적 강렬함의 원천으로 형상화한다는 점에서 공통점을 보인다.
 
 이러한 점에서 *불멸의 연인*은 음악 중심 의료인문학 DB의 항목으로 의미가 있다. 이 작품은 정상성, 질환 경험, 그리고 고통의 음악적 표현이라는 문제를 동시에 사유하게 한다. 또한 음악이 장애를 가진 신체의 무게를 — 비극으로도, 단순한 극복으로도 환원하지 않으면서 — 담아낼 수 있음을 보여주며, 장애가 창조성을 억압하기보다 오히려 심화시킬 수 있음을, 음악이 인간의 고통을 단지 '극복'하는 것이 아니라 그 안에 '거주'할 수 있는 매체임을 설득력 있게 증언한다.
+
+## 내가 쓴 서술에 비판을 되돌리기 (HYQ Portfolio와의 연결)
+
+위 항목을 다시 읽으며 불편한 사실을 마주해야 했다. 내 서술의 상당 부분이, 정작 나의 [HYQ Portfolio Future Question](README.md)이 의문을 제기하려 했던 바로 그 '극복 서사'를 재생산하고 있었다. "소리를 잃어가는 과정 속에서도 음악을 창조해낸"이라는 표현, 그리고 도르셸의 *승화* 논리에 대한 과도한 의존 — 고통이 "정복"되고 "정반대의 것으로 변형"된다는 — 은, 들리는 신체를 배경음(keynote)으로 조용히 설치한 뒤 베토벤의 청각장애를 그 배경에서 초월해야 할 결핍으로 듣게 만든다. 나는 그를 폄하할 의도가 없었다. 오히려 경의를 담으려 했다. 그러나 그것이 정확히 내 포트폴리오가 도달한 지점이다 — 낙인은 악의가 아니라 자신이 무의식적으로 서 있던 위치에서 재생산된다.
+
+포트폴리오에서 세운 두 판별 기준을 적용하면 문제가 구체적으로 드러난다. **Schafer의 소리풍경**(배경음/소음) 기준으로 보면, "완전한 침묵 속에서 탄생했다"는 내 표현은 청력을 자연스러운 배경으로, 청각장애를 구원받아야 할 부재로 배치하는 *강화* 서술이다. *해체* 쪽 대안은 그의 청각장애를 애초에 '침묵'으로 규정하지 않는다. 그것을 다른 감각 채널로 본다 — 베토벤은 골전도와 진동으로 작곡했고, 피아노 다리를 잘라 바닥의 울림으로 소리를 느꼈으며, 음악을 소리가 아닌 구조로 읽었다. **Oliveros의 Deep Listening**(듣기/청취) 기준으로 보면, 영화도 그에 대한 내 서술도 청각장애 신체를 관찰·연민의 대상("굴욕", "고립")으로 주로 배치하여 기존 위계를 그대로 둔다. 해체적 서술이라면 그 신체를 자기 고유의 음악 지각 방식을 가진 *청취하는 주체*로 세울 것이다. 이렇게 읽으면 크라머의 '체화된 고통' 명제조차 다르게 쓸 수 있다. 후기 양식의 화성적 단절은 "더 이상 듣지 못하는 신체가 남긴 형식적 서명"이 아니라, *다르게 듣는* 신체의 서명일 수 있다.
+
+원래 서술을 조용히 다듬어 지우는 대신 위에 그대로 남겨 둔 것은 의도적이다. 내가 이 항목을 처음 썼을 때와 지금 다시 읽는 방식 사이의 간극 자체가, 내 포트폴리오가 딛고 선 증거이기 때문이다. 이 항목은 나의 Future Question이 태어난 문서이고, 포트폴리오는 내가 그것을 비판적으로 읽는 법을 배운 곳이다. — **[HYQ Portfolio: "음악 속 질병·장애의 표현 방식이 '정상성'의 권력 구조를 강화하는가, 해체하는가?"](README.md)** 참조.
 
 <img src="./ra-haeri.png" alt="Beethoven in agony" style="width:40%;" />
 
